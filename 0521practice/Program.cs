@@ -7,3 +7,4 @@ Console.WriteLine("Hello, World4!");Console.WriteLine("Hello, 直接修改!");
 Console.WriteLine("Hello, 再修改!");
 Console.WriteLine("Hello, World5!");
 Console.WriteLine("Hello, World6!");
+Console.WriteLine("Hello, World7!");
